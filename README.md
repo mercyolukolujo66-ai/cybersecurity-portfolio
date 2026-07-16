@@ -11,7 +11,7 @@ I'm an aspiring SOC Analyst documenting my learning journey through hands-on lab
 - Cisco Junior Cybersecurity Analyst
 - Cisco CyberOps Associate
 
-## Current Focus
+## Current Learning Focus
 
 - Security Operations (SOC)
 - Incident Response
