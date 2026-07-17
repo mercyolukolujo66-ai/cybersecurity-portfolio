@@ -18,3 +18,9 @@ I learned that GitHub is used to store projects, track changes, and showcase wor
 ## Reflection
 
 Today was my first real step in building a public cybersecurity portfolio. GitHub seemed confusing at first, but I now understand the basics and I'm excited to keep learning.
+
+## Next Steps
+
+- Continue the Pre Security room.
+- Learn more about networking.
+- Upload screenshots when necessary.
